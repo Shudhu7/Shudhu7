@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced Spring Security & Docker**
 - 👯 I’m looking to collaborate on **Open-source Java projects**
 - 📫 How to reach me: **mr.shudhuingle@gmail.com**
-- 💼 Portfolio: [react-portfolio-beige-three.vercel.app](https://react-portfolio-beige-three.vercel.app)
+- 💼 Portfolio: [react-portfolio-beige-three.vercel.app](https://shuddhodaningale.vercel.app/)
 - 🔗 LinkedIn: [shuddhodan-ingale-3b4238215](https://www.linkedin.com/in/shuddhodan-ingale-3b4238215/)
 
 ---
